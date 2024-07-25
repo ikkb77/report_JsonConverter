@@ -1,0 +1,22 @@
+{
+  "title" : "Fortify Scan Results",
+  "details" : "Detailed report of vulnerabilities found during the Fortify scan.",
+  "report_type" : "SECURITY",
+  "result" : "FAIL",
+  "data" : [ {
+    "title" : "Total Issues",
+    "value" : 4
+  }, {
+    "title" : "Critical Issues",
+    "value" : 0
+  }, {
+    "title" : "High Issues",
+    "value" : 1
+  }, {
+    "title" : "Medium Issues",
+    "value" : 0
+  }, {
+    "title" : "Low Issues",
+    "value" : 3
+  } ]
+}

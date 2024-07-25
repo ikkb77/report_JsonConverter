@@ -1,0 +1,50 @@
+{
+  "title" : "Fortify Scan Report",
+  "details" : "Fortify detected 4 vulnerabilities",
+  "reporter" : "Fortify Static Code Analyzer 24.2.0.0150",
+  "link" : "http://13.209.176.153:8080/ssc/html/ssc/index.jsp#!/version/59/fix",
+  "logo_url" : "https://bitbucket.org/workspaces/fortifysoftware/avatar",
+  "report_type" : "SECURITY",
+  "result" : "PASSED",
+  "data" : [ {
+    "type" : "TEXT",
+    "title" : "Application Version",
+    "value" : "jenkins - sample-eightball"
+  }, {
+    "type" : "DATE",
+    "title" : "Last Static Scan",
+    "value" : "2024-07-17T15:53:44.000000Z"
+  }, {
+    "type" : "NUMBER",
+    "title" : "Critical (SAST)",
+    "value" : 0
+  }, {
+    "type" : "NUMBER",
+    "title" : "Critical (Overall)",
+    "value" : 0
+  }, {
+    "type" : "NUMBER",
+    "title" : "High (SAST)",
+    "value" : 1
+  }, {
+    "type" : "NUMBER",
+    "title" : "High (Overall)",
+    "value" : 1
+  }, {
+    "type" : "NUMBER",
+    "title" : "Medium (SAST)",
+    "value" : 0
+  }, {
+    "type" : "NUMBER",
+    "title" : "Medium (Overall)",
+    "value" : 0
+  }, {
+    "type" : "NUMBER",
+    "title" : "Low (SAST)",
+    "value" : 3
+  }, {
+    "type" : "NUMBER",
+    "title" : "Low (Overall)",
+    "value" : 3
+  } ]
+}
